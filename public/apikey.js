@@ -1,0 +1,1 @@
+module.exports.API_KEY='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'
